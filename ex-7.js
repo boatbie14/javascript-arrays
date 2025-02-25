@@ -51,3 +51,6 @@ console.log(isArray);
 console.log(creditCardTypeOfBlindermann);
 console.log(productQuantityOfJoannet);
 console.log(totalPurchaseOfDary);
+
+orders.splice(0, 1);
+console.log(orders);
